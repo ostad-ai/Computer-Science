@@ -3,3 +3,4 @@ Programs related to the field of Computer Science are expessed here. More on Com
 https://www.pinterest.com/HamedShahHosseini/
 
 1) Determinant from scratch with Python by converting matrix to triangular one.
+2) Cramer's rule for solving a system of linear equations.
