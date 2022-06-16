@@ -6,3 +6,4 @@ https://www.pinterest.com/HamedShahHosseini/
 2) Cramer's rule for solving a system of linear equations.
 3) Matrix inversion by the cofactor matrix from scratch in Python. 
 4) Matrix inversion by Gauss-Jordan elimination from scratch in Python. 
+5) Fast Fourier Transform (FFT), one-dimensional, from scratch in Python. Also, Discrete Fourier Transform (DFT) from scratch is also included.
