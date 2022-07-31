@@ -8,3 +8,4 @@ https://www.pinterest.com/HamedShahHosseini/
 4) Matrix inversion by Gauss-Jordan elimination from scratch in Python. 
 5) Fast Fourier Transform (FFT), one-dimensional, from scratch in Python. Also, Discrete Fourier Transform (DFT) from scratch is also included.
 6) Divide and Conquer: Quicksort from scratch in Python. 
+7) Dynamic Programming: Fibonacci numbers in Python.
