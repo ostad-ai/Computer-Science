@@ -9,3 +9,4 @@ https://www.pinterest.com/HamedShahHosseini/
 5) Fast Fourier Transform (FFT), one-dimensional, from scratch in Python. Also, Discrete Fourier Transform (DFT) from scratch is also included.
 6) Divide and Conquer: Quicksort from scratch in Python. 
 7) Dynamic Programming: Fibonacci numbers in Python.
+8) Singly Linked Lists from scratch with Python. An example is also given to implement a stack having functions: push and pop. 
