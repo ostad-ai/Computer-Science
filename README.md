@@ -10,3 +10,4 @@ https://www.pinterest.com/HamedShahHosseini/
 6) Divide and Conquer: Quicksort from scratch in Python. 
 7) Dynamic Programming: Fibonacci numbers in Python.
 8) Singly Linked Lists from scratch with Python. An example is also given to implement a stack having functions: push and pop. 
+9) Complex numbers: introduction. Here, we review complex numbers in both rectangular and polar forms by reminding Euler's formula and De Moivre's formula. Also, we review doing arithmetic for complex numbers in Python.
