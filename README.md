@@ -13,3 +13,4 @@ https://www.pinterest.com/HamedShahHosseini/
 9) Complex numbers: introduction. Here, we review complex numbers in both rectangular and polar forms by reminding Euler's formula and De Moivre's formula. Also, we review doing arithmetic for complex numbers in Python.
 10) Absolute and relative errors are reviewed. When we don't know the true value, we may use approximate value in measuring the mentioned errors. A Python example is also provided.
 11) Bisection method: It is a method to find one root of a continuous function, given the interval [a,b] in which the root exists. It is assumed that f(a)f(b)<0. 
+12) False Position method: this root finding method is also a bracketing method with the same assumptions we make for the bisection method. However, it is usually faster than the bisection method.
