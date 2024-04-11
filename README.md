@@ -15,3 +15,4 @@ https://www.pinterest.com/HamedShahHosseini/
 11) Root finding, Bisection method: It is a bracketing method to find one root of a continuous function, given the interval [a,b] in which the root exists. It is assumed that f(a)f(b)<0. 
 12) Root finding, False Position method: This root finding method is also a bracketing method with the same assumptions we make for the bisection method. However, it is usually faster than the bisection method.
 13) Root finding, Fixed Point Iteration: This is an open method such that it starts by an initial guess of the root, and then it uses an iteration to get closer to the real root.
+14) Root finding, Secant method: We give two initial guesses of the root. Then, the method creates a secant line which intersects the x-axis at a value that is usually a better estimate of the root.
