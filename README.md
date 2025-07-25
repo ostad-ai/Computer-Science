@@ -20,3 +20,6 @@ https://www.pinterest.com/HamedShahHosseini/
 16) **Trace of a matrix:** *Trace* is defined on a *square* matrix, which is the sum of the elements on the *main diagonal* of the matrix. We review the trace function with some properties of the trace. Also, we check those properties in an example with Python code.
 17) **Determinant:** Determinant is reviewed again here with some of its properties. The *Laplace expansion* is also mentioned. Moreover, **minors** and **cofactors** of the given matrix are computed. 
 18) **Euler method:** The Euler method is used to find solutions to *ordinary differential equations*(ODEs). It is a simple method which is also easy to implement. In fact, it is a numerical method for integration, which can be used for *initial value problems* (IVPs). Here, we bring the Python code with an example. 
+19) **Monte Carlo algorithms:** A Monte Carlo algorithm refers to a broad class of computational methods that use **random sampling**  to estimate numerical results, especially when analytical solutions are difficult or impossible to obtain.
+These methods are named after the Monte Carlo Casino in Monaco, due to their reliance on randomness and chance. 
+In the Python code here, we give some applications of Monte Carlo algorithms including *numerical integration*, *optimization*, and *PI estimation*. 
