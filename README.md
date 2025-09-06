@@ -23,3 +23,5 @@ https://www.pinterest.com/HamedShahHosseini/
 19) **Monte Carlo method (algorithms):** A Monte Carlo method (algorithms) refers to a broad class of computational methods that use **random sampling**  to estimate numerical results, especially when analytical solutions are difficult or impossible to obtain.
 These methods are named after the Monte Carlo Casino in Monaco, due to their reliance on randomness and chance. 
 In the Python code here, we give some applications of Monte Carlo method including *numerical integration*, *optimization*, and *PI estimation*. 
+20) **Enumeration algorithms:** An enumeration algorithm finds all pssible solutions to a given problem, ony by one, often without duplicates in an efficient way. Thus, it lists all valid solutions to the problem. 
+Here, we review the concept of *enumeration algorithms*, and then give an example to find all subsets of a given set in two versions: **Recursive** and **Iterative**. Also, as a bonus, we express an algorithm to enumerate all **permutations** of the letters in a word.
