@@ -25,3 +25,6 @@ These methods are named after the Monte Carlo Casino in Monaco, due to their rel
 In the Python code here, we give some applications of Monte Carlo method including *numerical integration*, *optimization*, and *PI estimation*. 
 20) **Enumeration algorithms:** An enumeration algorithm finds all pssible solutions to a given problem, ony by one, often without duplicates in an efficient way. Thus, it lists all valid solutions to the problem. 
 Here, we review the concept of *enumeration algorithms*, and then give an example to find all subsets of a given set in two versions: **Recursive** and **Iterative**. Also, as a bonus, we express an algorithm to enumerate all **permutations** of the letters in a word.
+21) **Heap:** A heap is a **tree-based** data structure, which satisfies the **heap property**. The heap property for a min-heap requires each parent to be smaller than or equal to its children. Similarly, for a max-heap, each parent is required to be greater than or equal to its children.
+Here, we first define a heap from scratch in Python. Then, we use it in practice and explore the operations defined for it. 
+It is noted that we have a built-in module in Python for working with heaps. The module is called **heapq**.
