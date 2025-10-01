@@ -29,4 +29,4 @@ Here, we review the concept of *enumeration algorithms*, and then give an exampl
 Here, we first define a heap from scratch in Python. Then, we use it in practice and explore the operations defined for it. 
 It is noted that we have a built-in module in Python for working with heaps. The module is called **heapq**.
 22) **Queue:** A **queue** is a *linear data structure* that follows the **FIFO** (First-In, First-Out) principle. This means that the first element added to the queue will be the first element to be removed.
-Here, we mention queue by implementing it with three differents methods: `list`, `collections.deque`, and  `linked list'. Finaly we compare their performance in terms of time in which **deque** obviously wins.
+Here, we mention queue by implementing it with three differents methods: `list`, `collections.deque`, and `linked list`. Finally, we compare their performance in terms of time in which **deque** obviously wins.
